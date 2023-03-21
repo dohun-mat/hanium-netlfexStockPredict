@@ -4,4 +4,4 @@
 [한이음 인증서발급.pdf](https://github.com/dohun-mat/hanium-netlfexStockPredict/files/11024351/default.pdf)  
 
 
-![image](https://user-images.githubusercontent.com/81942144/226501622-2cd2f4d4-d532-4d5b-af41-fb12effa5284.png)
+<img width="559" alt="화면 캡처 2023-03-21 105739" src="https://user-images.githubusercontent.com/81942144/226501871-87e8cdaf-8476-48aa-8c36-c80351771350.png">
